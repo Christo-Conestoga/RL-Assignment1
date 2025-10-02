@@ -18,8 +18,8 @@ Each problem builds upon the previous one, moving from defining state, actions, 
 
 ### 1. Clone the repository  
 ```bash
-git clone <https://github.com/Christo-Conestoga/RL-Assignment1.git>
-cd <RL-Assignment1>
+git clone https://github.com/Christo-Conestoga/RL-Assignment1.git
+cd RL-Assignment1
 ```
 ### 2. Make sure you are having python verion 3.12.0
 ```bash
